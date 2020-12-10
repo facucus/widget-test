@@ -14,9 +14,10 @@ const styles = {
   iframe: {
     width: '400px',
     height: '400px',
-    position: 'absolute',
+    position: 'fixed',
     bottom: '20px',
-    right: '20px'
+    right: '20px',
+    background: 'white'
   }
 }
 
